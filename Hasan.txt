@@ -1,1 +1,16 @@
-o ma fagune tor amer bone grane pagul kore mori hay hay re
+$ git status
+$ git add .
+$ git commit -m "First commant"
+$ git push
+$ git pull
+$ git add -A
+$ git commit -m "second commit"
+$ git push
+
+
+
+
+
+
+
+
