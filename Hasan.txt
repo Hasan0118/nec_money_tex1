@@ -6,6 +6,8 @@ $ git pull
 $ git add -A
 $ git commit -m "second commit"
 $ git push
+$ git branch
+$ git checkout -b 'new-branch'
 
 
 
