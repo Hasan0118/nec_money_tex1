@@ -1,4 +1,5 @@
 $ git clone "url"
+$ git clone "https://github.com/gitnecmoney/NecMoneyApp.git"
 $ git status
 $ git add .
 $ git commit -m "First commant"
