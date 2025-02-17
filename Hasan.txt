@@ -13,6 +13,10 @@ $ git checkout -b 'new-branch'
  git push --set-upstream origin hasan
 
 
+flutter build apk size small with command
+flutter build apk --release --split-per-abi --shrink
+
+
 
 
 
